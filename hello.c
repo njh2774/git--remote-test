@@ -1,8 +1,8 @@
 // For command line git tutorial 
-// GitHub modification
+// First: Local repository modification
+// Second: Github modification
 #include<stdio.h>
-// for command line git tutorial
-// Local repository modification
+
 
 void main(){
 	printf("Hello world");

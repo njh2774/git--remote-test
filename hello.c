@@ -3,5 +3,8 @@
 void main(){
 	printf("Hello world");
 	printf("First Branch");
-	prinftf("Master Branch ID")
+<<<<<<< HEAD
+=======
+	printf("TestBranch ID");
+>>>>>>> testbranch
 }
